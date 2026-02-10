@@ -19,5 +19,7 @@ public class MyFirstTest {
     @Test
     public static void main(String[] args) {
         System.out.println("hello world!");
+        System.out.println("postJira2");
+        System.out.println("postJira3");
     }
 }
