@@ -8,6 +8,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 
+import java.sql.SQLOutput;
 import java.time.Duration;
 import java.util.List;
 import java.util.ListIterator;
@@ -95,6 +96,10 @@ public class MyFirstUITest {
         driver.close();
 
 
+    }
+    @Test
+    public void testUI2(){
+        System.out.println("test added for Git demo purpose");
     }
 }
 
