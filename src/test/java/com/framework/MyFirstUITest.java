@@ -97,9 +97,6 @@ public class MyFirstUITest {
 
 
     }
-    @Test
-    public void testUI2(){
-        System.out.println("test added for Git demo purpose");
-    }
+
 }
 
